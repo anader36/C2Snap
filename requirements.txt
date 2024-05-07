@@ -1,0 +1,8 @@
+tkinter
+pyautogui
+opencv-python  # or opencv-contrib-python
+pillow
+geopy
+cryptography  # For cryptography 
+didkit
+cbor2
