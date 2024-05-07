@@ -16,6 +16,9 @@ In the era of digital media, the manipulation of images can have far-reaching co
 C2Snap is developed as a graduation project with the aim of providing a robust solution to the problem of ensuring the authenticity and integrity of digital images. This tool integrates seamlessly with C2PA standards to embed cryptographic signatures and detailed metadata into images. These enhancements serve as tamper-evident seals, enabling both creators and consumers to verify the origin and integrity of the content at any point after its creation.
 
 ## C2PA Manifest Structure:
+<img width="771" alt="c2pa_visualglossary" src="https://github.com/anader36/C2Snap/assets/93553393/b3cc0ad9-9143-4b0b-9964-edc2bd1a9699">
+
+
 The image above illustrates the structure of a C2PA (Coalition for Content Provenance and Authenticity) manifest, which is integral to ensuring the authenticity and integrity of digital media. Here's a detailed breakdown of each component within the manifest structure:
 
 1. Manifest Store: This is the top-level container that encapsulates all other components related to the digital content's provenance.
