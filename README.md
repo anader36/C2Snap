@@ -1,5 +1,9 @@
-C2Snap - Image Authenticity and Integrity Tool
-Project By: Ahmed Nader
+![Screenshot 2024-04-04 120328](https://github.com/anader36/C2Snap/assets/93553393/75da921e-27dc-4e9c-af16-9c848e54fa41)
+
+
+
+C2Snap - Image Authenticity and Integrity Tool - Project By: Ahmed Nader
+
 
 # Overview
 ## Understanding C2PA:
